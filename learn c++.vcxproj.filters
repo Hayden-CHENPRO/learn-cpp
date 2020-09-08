@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\数据结构与算法分析">
+      <UniqueIdentifier>{647d3be2-c2fc-4159-a0b7-1eb1380813d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Primer c++">
+      <UniqueIdentifier>{5ac7f06d-d7e0-4bfc-a1ac-3ca5e632f60e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Primer c++">
+      <UniqueIdentifier>{671675a1-af67-4370-b9a7-01ad38fee2ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\数据结构与算法分析">
+      <UniqueIdentifier>{2d922c12-7dfd-4029-917e-7c3ab715f475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="7.1.2 Sales_data2.h">
+      <Filter>头文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1 书店类.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="1.4 读取数量不定的整数输入数据.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="2.6 书店程序.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2 用getline读取一整行.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.3 处理string中的每个字符（范围for语句）.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="3.2.3 使用下标进行迭代.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="3.4.1 使用迭代器.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="3.6.1 多维数组的初始化.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6.3 标准异常.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.4 函数中多维数组的传递.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2.6 含有可变形参的函数.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.1 使用改进的Sales_data类.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="fact.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="factMain.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="IntCell.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="TestIntCell.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子序列和问题_alg2_O%28N2%29.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子序列和问题_alg1_O%28N3%29.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子序列和问题_alg3_O%28NlogN%29.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子序列和问题_alg4_O%28N%29.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="binary search.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序1.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序2.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序3.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘递归.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="土地方块递归.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序1_failed.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序2.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="11.1 使用map和set.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="11.3.6 单词转换程序.cpp">
+      <Filter>源文件\Primer c++</Filter>
+    </ClCompile>
+    <ClCompile Include="广度优先搜索.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="狄克斯特拉算法.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="贪婪算法_广播台.cpp">
+      <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2.6 Sales_data.h">
+      <Filter>头文件\Primer c++</Filter>
+    </ClInclude>
+    <ClInclude Include="7.3.1 Screen.h">
+      <Filter>头文件\Primer c++</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter6.h">
+      <Filter>头文件\Primer c++</Filter>
+    </ClInclude>
+    <ClInclude Include="IntCell.h">
+      <Filter>头文件\数据结构与算法分析</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
