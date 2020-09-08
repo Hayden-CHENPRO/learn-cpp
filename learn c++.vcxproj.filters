@@ -25,6 +25,9 @@
     <Filter Include="头文件\数据结构与算法分析">
       <UniqueIdentifier>{2d922c12-7dfd-4029-917e-7c3ab715f475}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\tools">
+      <UniqueIdentifier>{92c0c75f-162d-4648-a383-c861069ffc87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="7.1.2 Sales_data2.h">
@@ -131,6 +134,9 @@
     </ClCompile>
     <ClCompile Include="贪婪算法_广播台.cpp">
       <Filter>源文件\数据结构与算法分析</Filter>
+    </ClCompile>
+    <ClCompile Include="aboutSet.cpp">
+      <Filter>源文件\tools</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

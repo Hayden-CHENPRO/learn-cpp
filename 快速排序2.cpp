@@ -20,7 +20,7 @@ void quickSort(int left, int right, std::vector<int>& arr)
 {
 	if (left >= right)
 		return;
-	
+
 	int i, j, base, temp;
 	i = left; j = right;
 	base = arr[left];
