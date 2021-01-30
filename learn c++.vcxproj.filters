@@ -28,6 +28,18 @@
     <Filter Include="源文件\tools">
       <UniqueIdentifier>{92c0c75f-162d-4648-a383-c861069ffc87}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\LeetCode">
+      <UniqueIdentifier>{24c6e2c1-1404-49c9-b922-2939d24ee920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LeetCode\贪心算法">
+      <UniqueIdentifier>{d9ad6329-05d0-43d2-aa4f-eb659cbb9a9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LeetCode\贪心算法\455分发饼干">
+      <UniqueIdentifier>{fc320100-edeb-4c7f-85ca-84b0f2c79b88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LeetCode\贪心算法\1578避免重复字母的最小删除成本">
+      <UniqueIdentifier>{0329adcd-1eab-4e5b-a0f9-5c062fa41f4c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="7.1.2 Sales_data2.h">
@@ -137,6 +149,18 @@
     </ClCompile>
     <ClCompile Include="aboutSet.cpp">
       <Filter>源文件\tools</Filter>
+    </ClCompile>
+    <ClCompile Include="1.两数之和.cpp">
+      <Filter>源文件\LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="455分发饼干_v1.cpp">
+      <Filter>源文件\LeetCode\贪心算法\455分发饼干</Filter>
+    </ClCompile>
+    <ClCompile Include="455分发饼干_v2.cpp">
+      <Filter>源文件\LeetCode\贪心算法\455分发饼干</Filter>
+    </ClCompile>
+    <ClCompile Include="1578避免重复字母的最小删除成本_v1.cpp">
+      <Filter>源文件\LeetCode\贪心算法\1578避免重复字母的最小删除成本</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
